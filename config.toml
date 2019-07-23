@@ -1,0 +1,16 @@
+title = "blog"
+base_url = "https://mclement.dev"
+
+compile_sass = true
+
+highlight_code = true
+
+build_search_index = true
+
+[extra]
+hyde_sticky = true
+hyde_reverse = false
+hyde_theme = "theme-base-0d"
+hyde_links = [
+    {url = "https://github.com/mattclement/blog", name = "src"},
+]
