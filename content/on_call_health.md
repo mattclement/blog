@@ -4,7 +4,7 @@ date = 2019-07-23
 +++
 
 
-**tl;dr - Responding quickly to changing needs and enforcing rituals promote long term personal and team health. The mental health of your team is higher priority than service you support.**
+**tl;dr - Nobody knows your team's needs better than the team itself. Responding quickly to changing needs and enforcing rituals promote long term personal and team health. The mental health of your team is higher priority than service you support.**
 
 On call responsibilities are spreading through the software engineering field. Systems are more complex. The depth of knowledge required to support these systems is increasing. How you (managers and individual contributors!) respond to this will have a powerful effect on the overall morale and health of individuals and the team.
 
@@ -15,7 +15,7 @@ This statement is applicable to 99% of the software industry: **You're not Googl
 
 How you respond to problems requires making pragmatic decisions, under constraints that are unique to your organization. There may not be enough people to have 8 hour on-call shifts. You might only have the time to write up some response docs, rather than an automated response. Maybe you're still dealing with the fallout from the last incident. These are absolutely fine (and fun) constraints to have!
 
-Giving the team ownership to direct and participate in making these pragmatic decisions is important. Nobody knows the struggles your team is facing better than the team. The desire to keep on-call stable leads to a lack of experimentation and a temptation to "control" the process. We strive to be agile in our decision making elsewhere, why not apply that to on-call as well? If week long shifts don't work, then just change it!
+Giving the team ownership to direct and participate in making these pragmatic decisions is important. Nobody knows the struggles your team is facing better than the team. **The desire to keep on-call stable leads to a lack of experimentation and a temptation to "control" the process.** We strive to be agile in our decision making elsewhere, why not apply that to on-call as well? If week long shifts don't work, then just change it!
 
 
 ## The Hero
