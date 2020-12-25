@@ -3,7 +3,7 @@ title = "Self-Reflection"
 date = 2020-12-25
 +++
 
-Self-reflection (and the lack of it) has a recurring theme for me in 2020. This year has been more aggressive and divisive than any other I've ever lived through. Hand in hand with the danger that people are under, self-reflection seems to be more important than ever and in short supply. Here are a few things I've been learning about and reflecting on lately.
+Self-reflection (and the lack of it) has a recurring theme for me in 2020. This year has been more aggressive and divisive than any other I've ever lived through. Hand in hand with the danger that people are in, self-reflection seems to be more important than ever and in short supply. Here are a few things I've been learning more about and reflecting on this year.
 
 ## Tech Bros
 
@@ -29,9 +29,9 @@ There are so many non-technology related issues that humanity has faced this yea
 
 Sure, maybe you're building some great "cryptocurrency to help nations without stable banking systems", but are you also putting out the same amount of CO<sub>2</sub> as an entire nation while half of the planet is on fire, exacerbated by global warming? Maybe you're building a secure end-to-end encrypted messaging system... which also blasts out to all of your contacts that you've joined. Did we not stop to think how that could be compromising to people's safety?
 
-Every company has some ridiculous unobtainable mission statement. This isn't a bad goal in isolation, but it doesn't exist in isolation. Capitalism works best if you pretend it does though, and ignore the horrors it creates around you. Ram your way to the top and ignore the other humans you negatively affect with your decisions and you'll be successful or something like that.
+Every company has some ridiculous unobtainable mission statement. This isn't a bad goal in isolation, but it doesn't exist in isolation. Capitalism works best if you pretend it does though, and ignore the horrors it creates around you. "Ram your way to the top and ignore the other humans you negatively affect with your decisions and you'll be successful or something like that. Above all, think of yourself first, and others second, if at all." What a sad way to live.
 
 
 ## Motif
 
-If you've read this far and have been living on Earth in 2020, the motif here is pretty clear: **its all about people**. Physical isolation has driven discourse towards isolated echo chambers. It's easy to avoid self-reflection when you're surrounded by people who agree with your every thought. Self-reflection is uncomfortable. But when the upside is _actually_ making humanity better, why avoid it?
+If you've read this far and have been living on Earth in 2020, the motif here is pretty clear: **it's all about people**. Physical isolation has driven discourse towards isolated echo chambers. It's easy to avoid self-reflection when you're surrounded by people who agree with your every thought. Self-reflection is uncomfortable. But when the upside is _actually_ making humanity better, why avoid it?
