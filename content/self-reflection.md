@@ -34,4 +34,4 @@ Every company has some ridiculous unobtainable mission statement. This isn't a b
 
 ## Motif
 
-If you've read this far and have been living on Earth in 2020, the motif here is pretty clear: **it's all about people**. Physical isolation has driven discourse towards isolated echo chambers. It's easy to avoid self-reflection when you're surrounded by people who agree with your every thought. Self-reflection is uncomfortable. But when the upside is _actually_ making humanity better, why avoid it?
+If you've read this far and have been living on Earth in 2020, the motif here is pretty clear: **it's all about people**. Physical isolation has driven discourse towards isolated echo chambers. It's easy to avoid self-reflection when you're surrounded by people who agree with your every thought. Self-reflection is uncomfortable because it requires admitting to yourself that you're doing something wrong. You can't deflect and self-reflect. Self-reflection is meaningless without change. But when the upside is _actually_ making humanity better, why avoid it?
