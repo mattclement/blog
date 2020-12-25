@@ -5,12 +5,12 @@ compile_sass = true
 
 highlight_code = true
 
-build_search_index = true
+build_search_index = false
 
 [extra]
 hyde_sticky = true
 hyde_reverse = false
-hyde_theme = "theme-base-0d"
+hyde_theme = "theme-base-09"
 hyde_links = [
     {url = "https://github.com/mattclement/blog", name = "src"},
 ]
